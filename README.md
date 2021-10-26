@@ -1,48 +1,24 @@
-# First-HTML 
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Spin-off of "Project: Blog"</title>
-    </head>
-    <body>
-        
-        
-        <style>
-        
-        h1{font-family:cursive;
-            color:blue;
-            text-align:center;
-        }
-        
-        p{font-style:italic;
-        font-size:14px;
-        color:maroon;
-        font-family:sans-serif;
-        }
-        
-body{color:gold;
-    font-family:mono;
-    background:lightgrey;
-}
-        
-        
-        </style>
-        <h1>Joey's Soccer Blog</h1>
-
-        <h3>Contents</h3>
-        <ul>
-      <li>    <a href="#firstpost">  First post! </a></li>
-      <li>    <a href="#secondpost">  Second post! </a></li>
-        </ul>
-        
-        <h2 id="firstpost"> First post</h2>
-        <h6>9/14/21</h6>
-        
-        <p>My first ever high school soccer game just occured. Yes, we did <strong> lose </strong> 3-1. But I think we did pretty good. Bernards was a very skillful team. I play side-d and I think I did pretty good. On the last goal I didn't get to the man in time on a counter. During warm-ups I got stung by a bee and it hurt the whole game. Hopefully we can get Bernards back next time we play them.</p>
-        
-        <h2 id="secondpost">Second Post</h2>
-        <h6>10/5/21</h6>
-        <p>On this day, we played Bernards again.<strong> Best game we've ever played, best game I've ever played.</strong> But we still lost 3-2. It doesn't matter, though. We are improving as a team, and I think the rest of our season is going to be pretty good. Especially because we are getting our injured players back. </p>
-    </body>
-</html>
+<DOCTYPE HTML> 
+<HTML>
+<Title> HTML Doc </Title>
+    <style> h1 {color:white;} body{background-color:skyblue}  
+    
+        h2 {background-color:green}
+    
+        h2 {color:lightblue}
+   
+    </style>
+<body>
+    <center>   <h1> <i> HTML is Cool </i> </h1> </center>
+    <p> <center> <i> <b> Awesome </b> </i> </center> </p>
+    <h2>Best HTML Tags </h2>
+            <ol> <li> HTML </li> 
+                <li> <strong> Strong</strong></li>    
+                <li><i>i</i></li>
+    </ol>
+   <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dog_coat_variation.png/220px-Dog_coat_variation.png" width="200"> </center>
+    <center> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Brooks_Chase_Ranger_of_Jolly_Dogs_Jack_Russell.jpg" width="200">
+        <center> <iframe src="https://snake.googlemaps.com/" length="400" height="400"> </center>
+            
+</body>
+</HTML>
