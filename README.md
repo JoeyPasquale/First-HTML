@@ -1,8 +1,8 @@
 <DOCTYPE HTML> 
 <HTML>
 <Title> HTML Doc </Title>
-    <style> 
-        
+  
+    <style>       
         h1 {color:white;} body{background-color:skyblue}  
     
         h2 {background-color:green}
