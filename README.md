@@ -3,11 +3,11 @@
 <Title> HTML Doc </Title>
   
     <style>       
-        h1 {color:white;} body{background-color:skyblue}  
+        h1 {color:white;} body{background-color:skyblue;}  
     
-        h2 {background-color:green}
+        h2 {background-color:green;}
     
-        h2 {color:lightblue}
+        h2 {color:lightblue;}
    
         .image{
         border: dashed blue 10px;
