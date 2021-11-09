@@ -14,6 +14,13 @@
         float:left;
         }
     </style>
+  
+  <tbody>
+    <tr>
+      <td>This is a very cool table</td>
+      <td>Table Data</td>
+      </tr>
+  
 <body>
     <center>   <h1> <i> HTML is Cool </i> </h1> </center>
     <p> <center> <i> <b> Awesome </b> </i> </center> </p>
